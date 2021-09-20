@@ -1,4 +1,4 @@
-# Swabhiman_AlgorithmsLabSolution
+# GauravBhushan_AlgorithmsLabSolution
 19th Sept Lab session
 
 Lab2_Problem1 : Question1 solution
